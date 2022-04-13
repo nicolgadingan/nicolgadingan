@@ -13,14 +13,14 @@
         "Others" : "(maybe)",
         "Language" : "PHP",
         "Framework" : "Laravel",
-        "Level" : "Basic"
+        "Level" : "Newbie"
     },
     "Experience" : {
         "Employed" : "Y",
         "Type" : "Full-time",
-        "Development" : "N",
+        "Development" : "Y",
         "Others" : "Y",
-        "Capabilities" : "HTML, CSS, JS, PHP and MySQL"
+        "Capabilities" : ["HTML", "CSS", "JS", "PHP", "MySQL", "PLSQL"]
     },
     "Collaboration" : {
         "Team" : "NA",
